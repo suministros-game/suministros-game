@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**suministros-game/suministros-game** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="width: 33.33%; float: left;">
+  <p style="font-size:5em;">img 2 ico</p>
+  <IMG style="width: 33.33%; float: left;" SRC="https://github.com/suministros-game/png2ico/blob/main/favicon.png?raw=true">
+</div>
+<div style="width: 33.33%; float: left;">
+  <p style="font-size:5em;">img 2 ico</p>
+  <IMG style="width: 33.33%; float: left;" SRC="https://github.com/suministros-game/png2ico/blob/main/favicon.png?raw=true">
+</div>
+<div style="width: 33.33%; float: left;">
+  <p style="font-size:5em;">img 2 ico</p>
+  <IMG style="width: 33.33%; float: left;" SRC="https://github.com/suministros-game/png2ico/blob/main/favicon.png?raw=true">
+</div>
